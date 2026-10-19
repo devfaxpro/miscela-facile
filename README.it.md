@@ -57,6 +57,8 @@ Il progetto accoglie contributi per lingue di tutti i continenti: è un obiettiv
 
 ## Privacy
 
+[Leggi l’informativa sulla privacy (italiano / inglese)](https://devfaxpro.github.io/miscela-facile/privacy.html). La versione 1.4.1 contiene anche una copia offline nell’app.
+
 Impostazioni e cronologia restano sul dispositivo. L'app Android non richiede permessi, account o connessione a Internet.
 
 ## Sviluppo e contributi
