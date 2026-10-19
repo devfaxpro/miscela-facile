@@ -1,5 +1,9 @@
 # Miscela Facile
 
+**Available for Android.**
+
+This repository contains information about the app. Application source code and APK files are not distributed in the current version of this repository.
+
 [English](README.md) · [Italiano](README.it.md)
 
 **A simple, offline petrol-and-oil mixture calculator for Android.**
@@ -21,19 +25,11 @@ Choose how much petrol you want to use, enter the oil percentage specified in yo
 - Button sound and haptic feedback on Android, subject to device settings.
 - Offline operation, with no accounts or advertising.
 
-## Android download
+## Android availability
 
-[Download Miscela Facile 1.5.0 APK](https://github.com/devfaxpro/miscela-facile/raw/refs/heads/main/downloads/Miscela-Facile-1.5.0.apk)
+Miscela Facile is available for **Android 8.0 or later**. Version **1.5.0**.
 
-Version **1.5.0** · version code **11** · package `it.miscelafacile.app`.
-
-Open the downloaded APK on Android to install it. If Android asks, allow installation from the browser or file manager you used. This is a direct download, separate from Google Play.
-
-[SHA-256 checksum](downloads/SHA256SUMS.txt)
-
-Version 1.5.0 adds independent petrol/oil units, automatic presets and remembered manual choices. US regional locales default to US gallons and US fluid ounces; other locales default to litres and millilitres. Units can always be changed manually.
-
-**Minimum requirement:** Android 8.0 or later. This project does not provide an iOS app.
+APK downloads are no longer provided through this repository.
 
 ## How to use it
 
@@ -69,14 +65,6 @@ The project welcomes language contributions from every continent. This is a goal
 
 Saved preferences and calculation history stay on the device. The Android app requests no permissions and does not require an account or an internet connection.
 
-## Development and contributions
+## Feedback
 
-The prepared project uses JavaScript for the shared interface and a Java Android WebView shell. Its source package includes build scripts, tests and translation contribution instructions.
-
-Translation review, accessibility feedback and reproducible bug reports are welcome. Please include the app version, device and selected language, without passwords or personal data.
-
-Automated checks cover calculations, language selection, history and small-screen layouts. They do not certify translation accuracy or replace testing on a physical Android device.
-
-## License
-
-An application-wide open-source license has **not yet been adopted**. MIT has been proposed but not applied. The bundled Nunito font retains its separate **SIL Open Font License 1.1**.
+For bug reports or translation corrections, open an [issue](https://github.com/devfaxpro/miscela-facile/issues). Include the app version, device and selected language, without passwords or personal data.

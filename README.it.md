@@ -1,5 +1,9 @@
 # Miscela Facile
 
+**Disponibile per Android.**
+
+Questo repository contiene informazioni sull’app. Il codice sorgente dell’app e i file APK non sono distribuiti nella versione attuale di questo repository.
+
 [English](README.md) · [Italiano](README.it.md)
 
 **Un calcolatore semplice e offline per preparare la miscela benzina e olio su Android.**
@@ -21,19 +25,11 @@ Scegli quanta benzina vuoi utilizzare, inserisci la percentuale d'olio indicata 
 - Suono e piccola vibrazione dei pulsanti, secondo le impostazioni del telefono.
 - Funzionamento offline, senza account e senza pubblicità.
 
-## Scarica per Android
+## Disponibilità per Android
 
-[Scarica Miscela Facile 1.5.0 APK](https://github.com/devfaxpro/miscela-facile/raw/refs/heads/main/downloads/Miscela-Facile-1.5.0.apk)
+Miscela Facile è disponibile per **Android 8.0 o successivo**. Versione **1.5.0**.
 
-Versione **1.5.0** · codice versione **11** · pacchetto `it.miscelafacile.app`.
-
-Apri il file APK scaricato sul telefono Android per installarlo. Se richiesto da Android, autorizza l'installazione dal browser o dal gestore file utilizzato. Questo download diretto è separato da Google Play.
-
-[Impronta SHA-256](downloads/SHA256SUMS.txt)
-
-La versione 1.5.0 aggiunge unità separate per benzina e olio, preset automatici e scelte manuali memorizzate. Le impostazioni locali con regione USA usano galloni e once fluide USA; le altre usano litri e millilitri. Puoi sempre cambiare le unità manualmente.
-
-**Requisito minimo:** Android 8.0. Non è disponibile una versione iOS.
+Il download dell’APK non è più disponibile da questo repository.
 
 ## Come si usa
 
@@ -69,14 +65,6 @@ Il progetto accoglie contributi per lingue di tutti i continenti: è un obiettiv
 
 Impostazioni e cronologia restano sul dispositivo. L'app Android non richiede permessi, account o connessione a Internet.
 
-## Sviluppo e contributi
+## Segnalazioni
 
-Il progetto preparato usa JavaScript per l'interfaccia condivisa e un'app Android Java con WebView. Il pacchetto sorgenti comprende script di compilazione, test e istruzioni per contribuire alle traduzioni.
-
-Sono benvenuti revisioni linguistiche, segnalazioni sull'accessibilità e problemi riproducibili. Indica versione dell'app, dispositivo e lingua selezionata, senza inserire password o dati personali.
-
-I controlli automatici verificano calcoli, scelta della lingua, cronologia e layout su schermi piccoli. Non certificano le traduzioni e non sostituiscono le prove su un telefono Android.
-
-## Licenza
-
-Non è ancora stata adottata una licenza open source per l'applicazione. La licenza MIT è stata proposta, **non applicata**. Il carattere Nunito mantiene la propria licenza **SIL Open Font License 1.1**.
+Per segnalare problemi o correzioni alle traduzioni, apri una [issue](https://github.com/devfaxpro/miscela-facile/issues). Indica versione dell’app, dispositivo e lingua selezionata, senza inserire password o dati personali.
