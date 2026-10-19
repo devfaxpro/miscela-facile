@@ -57,6 +57,8 @@ The project welcomes language contributions from every continent. This is a goal
 
 ## Privacy
 
+[Read the privacy policy (Italian / English)](https://devfaxpro.github.io/miscela-facile/privacy.html). Version 1.4.1 also includes an offline copy inside the app.
+
 Saved preferences and calculation history stay on the device. The Android app requests no permissions and does not require an account or an internet connection.
 
 ## Development and contributions
